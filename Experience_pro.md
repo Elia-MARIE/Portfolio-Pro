@@ -1,8 +1,7 @@
 # Expériences professionnelles
 
-## <span style="color: #26B260">Formation et transmission d'information</span>
+## Formation et transmission d'information
 ### Réalisation de e-tutoriels diffusés en interne
-<span style="color: #26B260">Formation et transmission d'information</span>
 Vidéo explicative connexion BDP
 ### Réalisation de formations QGIS - ateliers et modules
 Ateliers QGIS, modules de formation perfectionnement, formation d'initiation à QGIS
