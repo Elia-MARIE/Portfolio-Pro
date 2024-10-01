@@ -1,7 +1,7 @@
 # Portfolio-Pro
 
 ### Préambule
-Ce repository a pour objectif de compléter mon curriculum vitæ, offrant un aperçu concret de mon expérience et de mes réalisations.
+Ce repository a pour objectif de compléter mon curriculum vitæ, offrant ainsi un aperçu concret de mon expérience et de mes réalisations.
 
 ### Description
 Ce repository contient une liste des projets professionnels que j'ai réalisés en entreprise au cours de mon alternance.
