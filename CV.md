@@ -1,62 +1,66 @@
-<b><font color="#45b39d">PROFIL PROFESSIONNEL</font></b>
+# PROFIL PROFESSIONNEL
 
-Future diplômée cheffe de projet en géomatique, je recherche un emploi dans les domaines de l’aérospatial, l’aéronautique et du météorologique.
+Future diplÃ´mÃ©e cheffe de projet en gÃ©omatique, je recherche un emploi dans les domaines de lâ€™aÃ©rospatial, lâ€™aÃ©ronautique et du mÃ©tÃ©orologique.
 
 <hr>
-<b><font color="#45b39d">EXPÉRIENCE PROFESSIONNELLE</font></b>
+
+# EXPÃ‰RIENCE PROFESSIONNELLE
 
 
-<b>Cheffe de Projet Géomatique ARTIFEX (81)</b><br>
-Septembre 2023 à aujourd’hui<br>
-Animation de formations internes - Projets	d’innovation	d’outils	SIG	- Gestion de projet<br>
-*Élaborer un plan d’action, Gérer des retours d’expériences, Animer des réunions, Proposer des solutions innovantes*
+### Cheffe de Projet GÃ©omatique ARTIFEX (81)<br>
+Septembre 2023 Ã  aujourdâ€™hui<br>
+Animation de formations internes - Projets	dâ€™innovation	dâ€™outils	SIG	- Gestion de projet<br>
+*Ã‰laborer un plan dâ€™action, GÃ©rer des retours dâ€™expÃ©riences, Animer des rÃ©unions, Proposer des solutions innovantes*
 
-<b>Technicienne SIG ARTIFEX (81)</b><br>
+### Technicienne SIG ARTIFEX (81)<br>
 Septembre 2022 - Septembre 2023<br>
-Gestion de base de données - Diffusions cartographiques - Projet de développement d\'outils SIG<br>
-*Respecter des délais, Recherche et développement d\'outils SIG (télétravail 60% à 80%), Dispenser des formations*
+Gestion de base de donnÃ©es - Diffusions cartographiques - Projet de dÃ©veloppement d\'outils SIG<br>
+*Respecter des dÃ©lais, Recherche et dÃ©veloppement d\'outils SIG (tÃ©lÃ©travail 60% Ã  80%), Dispenser des formations*
 
 <hr>
-<b><font color="#45b39d">FORMATION</font></b>
 
-<b>IdGeo, CPGEOM, 2023-2025</b><br>
-*Télédétection, Géostatistiques, Recueil, traitement et exploitation de données géolocalisées, Diffusion et construction de solutions informatiques géomatiques (interfaces, applications, 
+# FORMATION
+
+### IdGeo, CPGEOM, 2023-2025<br>
+*TÃ©lÃ©dÃ©tection, GÃ©ostatistiques, Recueil, traitement et exploitation de donnÃ©es gÃ©olocalisÃ©es, Diffusion et construction de solutions informatiques gÃ©omatiques (interfaces, applications, 
 outils), Intelligence artificielle, Gestion de projet*
 
-<b>IdGeo, MALT, 2022-2023</b><br>
-*Formation avancée en SIG bureautique, en base de données spatialisées avec systèmes de gestion, en SIG web (Open Source et secteur privé)*
+### IdGeo, MALT, 2022-2023<br>
+*Formation avancÃ©e en SIG bureautique, en base de donnÃ©es spatialisÃ©es avec systÃ¨mes de gestion, en SIG web (Open Source et secteur privÃ©)*
 
-<b>Université Toulouse III - Paul Sabatier, L3 BOPE, 2021-2022</b>
-*Étude des organismes, des populations et des écosystèmes approfondie, Ornithologie, Outils statistiques et d\'informations géographiques*
+### UniversitÃ© Toulouse III - Paul Sabatier, L3 BOPE, 2021-2022
+*Ã‰tude des organismes, des populations et des Ã©cosystÃ¨mes approfondie, Ornithologie, Outils statistiques et d\'informations gÃ©ographiques*
 
-<b>Lycée Ozenne, CPGE TB, 2018-2021</b>
-*Biotechnologies, Physique & Chimie, Biologie, Mathématiques, Géographie, Informatique*
+### LycÃ©e Ozenne, CPGE TB, 2018-2021
+*Biotechnologies, Physique & Chimie, Biologie, MathÃ©matiques, GÃ©ographie, Informatique*
 
 
 <hr>
-<b><font color="#45b39d">SOFT SKILLS</font></b>
+
+# SOFT SKILLS
 
 - Communication orale 
 - Force de proposition 
-- Travail en équipe
-- Sens de l’organisation
-- Capacité à se remettre en question 
-- Adaptabilité
+- Travail en Ã©quipe
+- Sens de lâ€™organisation
+- CapacitÃ© Ã  se remettre en question 
+- AdaptabilitÃ©
 
 <hr>
-<b><font color="#45b39d">OUTILS MÉTIERS</font></b>
+
+# OUTILS MÃ‰TIERS
 
 - QGIS, ArcGIS
 - Webmapping
 - Langages de programmation
 - Automatisation : ETL 
-- Métadonnées, catalogage 
+- MÃ©tadonnÃ©es, catalogage 
 - AutoCAD
-- Librairies d’analyse d’images satellites
-
+- Librairies dâ€™analyse dâ€™images satellites
 
 <hr>
-<b><font color="#45b39d">OUTILS BUREAUTIQUES</font></b>
+
+# OUTILS BUREAUTIQUES
 
 Gestion de projet : monday, trello<br>
 Canva, Suite Microsfot
