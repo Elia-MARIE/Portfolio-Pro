@@ -23,10 +23,11 @@ Géomaticienne spécialisée en innovation numérique et en environnement, je d�
 **Réalisations :**
 
 * Création d’un modeleur QGIS de prédétermination faune-flore
-* Révision de la trame graphique du SIG de l’entreprise
-* Création d’un outil didactique environnemental par département (infobulles HTML QGIS)
 * Modernisation d’une application SIG mobile
-* Optimisation des méthodes de communication interne de l’équipe Géomatique et Informatique
+* Conception d’une plateforme interne de dépôt des données biodiversité (HTML, CSS, JavaScript, PHP, SQL)
+* Audits métiers pour le développement d’un outil d’évaluation des risques climatiques (PyQGIS)
+* Conception du portail web SIG interne centralisant outils et actualités (HTML, CSS, JavaScript, PHP, plugin QGIS)
+* Conception d’une solution SIG web cartographique et définition de sa stratégie commerciale (HTML, CSS, JavaScript, PHP, QGIS)
 * Conception d’un plan de formation continue interne
 
 ---
@@ -44,10 +45,9 @@ Géomaticienne spécialisée en innovation numérique et en environnement, je d�
 
 **Réalisations :**
 
-* Conception d’une plateforme interne de dépôt des données biodiversité (HTML, CSS, JavaScript, PHP, SQL)
-* Audits métiers pour le développement d’un outil d’évaluation des risques climatiques (PyQGIS)
-* Conception du portail web SIG interne centralisant outils et actualités (HTML, CSS, JavaScript, PHP, plugin QGIS)
-* Conception d’une solution SIG web cartographique et définition de sa stratégie commerciale (HTML, CSS, JavaScript, PHP, QGIS)
+* Création d’un outil didactique environnemental par département (infobulles HTML QGIS)
+* Optimisation des méthodes de communication interne de l’équipe Géomatique et Informatique
+* Révision de la trame graphique du SIG de l’entreprise
 
 ---
 
