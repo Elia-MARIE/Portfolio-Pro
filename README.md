@@ -1,15 +1,17 @@
 # Portfolio-Pro
 
 ### Préambule
-Ce repository a pour objectif de compléter mon curriculum vitæ, offrant ainsi un aperçu concret de mon expérience et de mes réalisations.
+Ce repository présente une sélection de projets géomatiques réalisés au cours de mon parcours professionnel au sein d’un bureau d’ingénierie et de conseil en environnement. 
+Il complète mon curriculum vitæ en illustrant concrètement mes compétences, mes réalisations et les solutions développées dans le cadre de mes missions.
 
 ### Description
-Ce repository contient une liste des projets professionnels que j'ai réalisés en entreprise au cours de mon alternance.
-Chaque projet listé est accompagné d'une description mettant en avant les compétences que j'ai acquises, les technologies utilisées et les résultats obtenus.
+Ce portfolio regroupe des projets menés en entreprise, certains finalisés et d’autres actuellement en cours de développement.
+Chaque projet présente son contexte, les objectifs associés, les compétences mobilisées, les technologies utilisées ainsi que les résultats obtenus.
 
 ### Contexte
-* Titre professionnel visé : Chef de projet géomatique (RNCP36067)
-* Niveau de qualification : 7 (équivalent Master, diplôme d'études approfondies, diplôme d'études supérieures spécialisées, diplôme d'ingénieur)
-* Période d'alternance : Septembre 2023 à Septembre 2025
-* Domaine de l'entreprise : Bureau d'ingénierie et de conseils en environnement
-* Formation précédente : Technicienne Géomaticienne (Septembre 2022 à Septembre 2023)
+* Poste actuel : Chargée de mission géomatique et infographie – CDI depuis septembre 2025
+* Entreprise : Bureau d’ingénierie et de conseil en environnement
+* Parcours au sein de l’entreprise : Alternance de septembre 2022 à septembre 2025, puis poursuite en CDI
+* Titre professionnel obtenu en septembre 2025 : Cheffe de projet géomatique (RNCP36067)
+* Niveau de qualification : Niveau 7 (équivalent Master)
+* Formation précédente : Technicienne géomaticienne (septembre 2022 à septembre 2023)
