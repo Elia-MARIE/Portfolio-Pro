@@ -1,66 +1,144 @@
-# PROFIL PROFESSIONNEL
+# Elia MARIE — Géomaticienne R&D
 
-Future diplômée cheffe de projet en géomatique, je recherche un emploi dans les domaines de l’aérospatial, l’aéronautique et du météorologique.
+## Profil professionnel
 
-<hr>
+Géomaticienne spécialisée en innovation numérique et en environnement, je développe des solutions SIG répondant aux besoins métiers et aux enjeux environnementaux. Mon parcours m’a permis d’acquérir des compétences en gestion de projet, développement d’outils géomatiques, valorisation de données spatiales et structuration de démarches R&D.
 
-# EXPÉRIENCE PROFESSIONNELLE
+---
 
+# Expérience professionnelle
 
-### Cheffe de Projet Géomatique ARTIFEX (81)<br>
-Septembre 2023 à aujourd’hui<br>
-Animation de formations internes - Projets	d’innovation	d’outils	SIG	- Gestion de projet<br>
-*Élaborer un plan d’action, Gérer des retours d’expériences, Animer des réunions, Proposer des solutions innovantes*
+## Chargée de mission géomatique et infographie — SOCOTEC (81)
 
-### Technicienne SIG ARTIFEX (81)<br>
-Septembre 2022 - Septembre 2023<br>
-Gestion de base de données - Diffusions cartographiques - Projet de développement d\'outils SIG<br>
-*Respecter des délais, Recherche et développement d\'outils SIG (télétravail 60% à 80%), Dispenser des formations*
+**2025 - Aujourd’hui**
 
-<hr>
+* Pilotage des activités R&D géomatiques
+* Animation de formations internes
+* Développement de projets d’innovation autour des outils SIG
+* Gestion de projet et structuration de la veille technologique
+* Élaboration de stratégies de développement et de communication
+* Gestion des retours d’expériences et amélioration continue
+* Animation de réunions et proposition de solutions innovantes
 
-# FORMATION
+**Réalisations :**
 
-### IdGeo, CPGEOM, 2023-2025<br>
-*Télédétection, Géostatistiques, Recueil, traitement et exploitation de données géolocalisées, Diffusion et construction de solutions informatiques géomatiques (interfaces, applications, 
-outils), Intelligence artificielle, Gestion de projet*
+* Création d’un modeleur QGIS de prédétermination faune-flore
+* Révision de la trame graphique du SIG de l’entreprise
+* Création d’un outil didactique environnemental par département (infobulles HTML QGIS)
+* Modernisation d’une application SIG mobile
+* Optimisation des méthodes de communication interne de l’équipe Géomatique et Informatique
+* Conception d’un plan de formation continue interne
 
-### IdGeo, MALT, 2022-2023<br>
-*Formation avancée en SIG bureautique, en base de données spatialisées avec systèmes de gestion, en SIG web (Open Source et secteur privé)*
+---
 
-### Université Toulouse III - Paul Sabatier, L3 BOPE, 2021-2022
-*Étude des organismes, des populations et des écosystèmes approfondie, Ornithologie, Outils statistiques et d\'informations géographiques*
+## Cheffe de projet géomatique — ARTIFEX, société du groupe SOCOTEC (81)
 
-### Lycée Ozenne, CPGE TB, 2018-2021
-*Biotechnologies, Physique & Chimie, Biologie, Mathématiques, Géographie, Informatique*
+**2023 - 2025**
 
+* Recueil et analyse des besoins métiers
+* Pilotage de l’amélioration continue
+* Rédaction de documents techniques
+* Gestion de bases de données PostgreSQL
+* Diffusion cartographique et valorisation des données spatiales
+* Coordination de projets de recherche et développement d’outils SIG
 
-<hr>
+**Réalisations :**
 
-# SOFT SKILLS
+* Conception d’une plateforme interne de dépôt des données biodiversité (HTML, CSS, JavaScript, PHP, SQL)
+* Audits métiers pour le développement d’un outil d’évaluation des risques climatiques (PyQGIS)
+* Conception du portail web SIG interne centralisant outils et actualités (HTML, CSS, JavaScript, PHP, plugin QGIS)
+* Conception d’une solution SIG web cartographique et définition de sa stratégie commerciale (HTML, CSS, JavaScript, PHP, QGIS)
 
-- Communication orale 
-- Force de proposition 
-- Travail en équipe
-- Sens de l’organisation
-- Capacité à se remettre en question 
-- Adaptabilité
+---
 
-<hr>
+## Technicienne SIG — ARTIFEX (81)
 
-# OUTILS MÉTIERS
+**2022 - 2023**
 
-- QGIS, ArcGIS
-- Webmapping
-- Langages de programmation
-- Automatisation : ETL 
-- Métadonnées, catalogage 
-- AutoCAD
-- Librairies d’analyse d’images satellites
+* Gestion de bases de données spatiales
+* Production et diffusion cartographique
+* Développement d’outils SIG
+* Automatisation de traitements géomatiques
+* Formation et accompagnement des utilisateurs
 
-<hr>
+---
 
-# OUTILS BUREAUTIQUES
+# Formation
 
-Gestion de projet : monday, trello<br>
-Canva, Suite Microsfot
+## IdGeo — Chef de projet géomatique (CPGEOM)
+
+**2023 - 2025**
+
+* Gestion de projet et méthodologies Agile (Scrum, Kanban) et Cycle en V
+* Programmation et développement de solutions géomatiques
+* Bases de données spatialisées
+* Géostatistiques
+* Intelligence artificielle (Deep Learning & Machine Learning)
+* Télédétection (NDVI, EVI, LAI)
+* Construction d’interfaces, applications et outils SIG
+
+## IdGeo — Technicienne géomaticienne (MALT)
+
+**2022 - 2023**
+
+* SIG bureautique avancé
+* Bases de données spatialisées et systèmes de gestion
+* SIG web Open Source et secteur privé (OpenLayers, Leaflet, Lizmap)
+
+## Université Toulouse III — Paul Sabatier — L3 BOPE
+
+**2021 - 2022**
+
+* Étude des organismes, populations et écosystèmes
+* Ornithologie
+* Outils statistiques et d’informations géographiques
+
+---
+
+# Compétences techniques
+
+## Outils métiers
+
+* QGIS, ArcGIS
+* Webmapping
+* PostgreSQL / PostGIS
+* Automatisation ETL
+* PyQGIS
+* Métadonnées et catalogage
+* AutoCAD
+* Librairies d’analyse d’images satellites
+
+## Développement
+
+* HTML, CSS, JavaScript
+* PHP, SQL
+* Python
+
+## Gestion de projet
+
+* Monday
+* Trello
+* Jira
+* Méthodologies Agile (Scrum, Kanban)
+
+---
+
+# Soft skills
+
+* Communication orale
+* Force de proposition
+* Travail en équipe
+* Esprit de synthèse
+* Adaptabilité
+* Capacité à se remettre en question
+* Sens de l’organisation
+
+---
+
+# Centres d’intérêt
+
+* Biodiversité et environnement
+* Ornithologie
+* Bénévolat auprès d’associations de protection animale
+* Sports de combat (Savate, Kick Boxing)
+* Sports mécaniques
